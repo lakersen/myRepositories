@@ -1,0 +1,10 @@
+/applicationContext.xml
+/controller/
+/db.properties
+/interceptor/
+/mapper/
+/pojo/
+/service/
+/springmvc.xml
+/sqlMapConfig.xml
+/utils/
