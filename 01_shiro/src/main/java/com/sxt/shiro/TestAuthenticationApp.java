@@ -16,6 +16,7 @@ import org.slf4j.LoggerFactory;
 public class TestAuthenticationApp {
 int a=55;
 int p=445;
+String aString="ss";
 	private static final transient Logger log=LoggerFactory.getLogger(TestAuthenticationApp.class);
 	public static void main(String[] args) {
 		String username="zhangsan";
