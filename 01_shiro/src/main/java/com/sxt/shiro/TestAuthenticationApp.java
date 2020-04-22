@@ -14,7 +14,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 @SuppressWarnings("deprecation")
 public class TestAuthenticationApp {
-	
+int a=55;
 	private static final transient Logger log=LoggerFactory.getLogger(TestAuthenticationApp.class);
 	public static void main(String[] args) {
 		String username="zhangsan";
